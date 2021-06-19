@@ -1,0 +1,11 @@
+body { background-color:#f3f0d7 ;}
+img { size:100px;}
+h1 { color:#293b5f;
+font-size: 3.5rem;}
+h3 { color:#293b5f; }
+hr { background-color: white;
+border-style: dotted none none;
+border-width: 5px;
+width:10%;}
+.image{height:250px;
+width:200px;}
